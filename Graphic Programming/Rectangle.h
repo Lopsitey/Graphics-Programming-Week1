@@ -1,6 +1,8 @@
 #pragma once
 #include <iostream>
 #include <vector>
+#include <string>
+#include "MathsExperiment.h"
 
 using namespace std;
 void InputRectangle(int& width, int& height, int& totalSideLen);
@@ -12,6 +14,8 @@ void Menu();
 void Happy();
 void Sad();
 void Rainbow();
+void InputNum();
+void OutputUserNumbers(int num);
 
 class Rectangle
 {

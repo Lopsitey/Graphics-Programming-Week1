@@ -1,6 +1,5 @@
 ﻿  Rectangle.cpp
-C:\Users\a013867o\source\repos\Graphic Programming\Graphic Programming\Rectangle.cpp(15,2): error C3861: 'Menu': identifier not found
-C:\Users\a013867o\source\repos\Graphic Programming\Graphic Programming\Rectangle.cpp(100,4): error C3861: 'Happy': identifier not found
-C:\Users\a013867o\source\repos\Graphic Programming\Graphic Programming\Rectangle.cpp(103,4): error C3861: 'Sad': identifier not found
-C:\Users\a013867o\source\repos\Graphic Programming\Graphic Programming\Rectangle.cpp(106,4): error C3861: 'Rainbow': identifier not found
-C:\Users\a013867o\source\repos\Graphic Programming\Graphic Programming\Rectangle.cpp(109,4): warning C4551: function call missing argument list
+C:\Users\jakea\Module 2\Graphics-Programming-Week1\Graphic Programming\Rectangle.cpp(6,6): warning C4101: 'height': unreferenced local variable
+C:\Users\jakea\Module 2\Graphics-Programming-Week1\Graphic Programming\Rectangle.cpp(5,6): warning C4101: 'width': unreferenced local variable
+C:\Users\jakea\Module 2\Graphics-Programming-Week1\Graphic Programming\Rectangle.cpp(112,4): warning C4551: function call missing argument list
+  Graphic Programming.vcxproj -> C:\Users\jakea\Module 2\Graphics-Programming-Week1\x64\Debug\Graphic Programming.exe

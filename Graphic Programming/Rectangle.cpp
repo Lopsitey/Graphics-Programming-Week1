@@ -12,7 +12,10 @@ int main()
 	OutputRectanglePerimeter(totalSideLen);
 	*/
 	//InputInts(numArr);
-	Menu();
+	//Menu();
+	InputNum();
+    MathsExperiment* maths = new MathsExperiment();
+	delete maths;
 }
 
 void InputRectangle(int& width, int& height, int& totalSideLen)
@@ -124,4 +127,27 @@ void Sad()
 void Rainbow()
 {
 	cout << "#PrideMonth!" << endl;
+}
+
+void InputNum() 
+{
+	int num;
+	cout << "Please input the number you want to count to: ";
+	cin >> num;
+	OutputUserNumbers(num);
+}
+
+void OutputUserNumbers(int num)
+{
+	num += 1;
+    vector<string> numberArr;
+    for (int i = 1; i < num; ++i)
+    {
+		numberArr.push_back(to_string(i));
+        for (int k = 1; k < i; ++k)
+        {
+            cout << numberArr[k - 1];
+        }
+        cout << endl;
+    }
 }
