@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jakea\\Module 2\\Graphics-Programming-Week1\\",
+  "WorkspaceRootPath": "C:\\Users\\jakea\\source\\repos\\Lopsitey\\Module-3\\Graphics-Programming-Week1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{58B50115-29C1-4BD7-8869-02C98875BE6B}|Graphic Programming\\Graphic Programming.vcxproj|C:\\Users\\jakea\\Module 2\\Graphics-Programming-Week1\\Graphic Programming\\AccountExperiment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{58B50115-29C1-4BD7-8869-02C98875BE6B}|Graphic Programming\\Graphic Programming.vcxproj|solutionrelative:Graphic Programming\\AccountExperiment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58B50115-29C1-4BD7-8869-02C98875BE6B}|Graphic Programming\\Graphic Programming.vcxproj|C:\\Users\\jakea\\Module 2\\Graphics-Programming-Week1\\Graphic Programming\\Rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{58B50115-29C1-4BD7-8869-02C98875BE6B}|Graphic Programming\\Graphic Programming.vcxproj|C:\\Users\\jakea\\source\\repos\\Lopsitey\\Module-3\\Graphics-Programming-Week1\\Graphic Programming\\Rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{58B50115-29C1-4BD7-8869-02C98875BE6B}|Graphic Programming\\Graphic Programming.vcxproj|solutionrelative:Graphic Programming\\Rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58B50115-29C1-4BD7-8869-02C98875BE6B}|Graphic Programming\\Graphic Programming.vcxproj|C:\\Users\\jakea\\Module 2\\Graphics-Programming-Week1\\Graphic Programming\\MathsExperiment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{58B50115-29C1-4BD7-8869-02C98875BE6B}|Graphic Programming\\Graphic Programming.vcxproj|C:\\Users\\jakea\\source\\repos\\Lopsitey\\Module-3\\Graphics-Programming-Week1\\Graphic Programming\\Rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{58B50115-29C1-4BD7-8869-02C98875BE6B}|Graphic Programming\\Graphic Programming.vcxproj|solutionrelative:Graphic Programming\\Rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58B50115-29C1-4BD7-8869-02C98875BE6B}|Graphic Programming\\Graphic Programming.vcxproj|C:\\Users\\jakea\\source\\repos\\Lopsitey\\Module-3\\Graphics-Programming-Week1\\Graphic Programming\\MathsExperiment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{58B50115-29C1-4BD7-8869-02C98875BE6B}|Graphic Programming\\Graphic Programming.vcxproj|solutionrelative:Graphic Programming\\MathsExperiment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58B50115-29C1-4BD7-8869-02C98875BE6B}|Graphic Programming\\Graphic Programming.vcxproj|C:\\Users\\jakea\\Module 2\\Graphics-Programming-Week1\\Graphic Programming\\Rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{58B50115-29C1-4BD7-8869-02C98875BE6B}|Graphic Programming\\Graphic Programming.vcxproj|solutionrelative:Graphic Programming\\Rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{58B50115-29C1-4BD7-8869-02C98875BE6B}|Graphic Programming\\Graphic Programming.vcxproj|C:\\Users\\jakea\\source\\repos\\Lopsitey\\Module-3\\Graphics-Programming-Week1\\Graphic Programming\\AccountExperiment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{58B50115-29C1-4BD7-8869-02C98875BE6B}|Graphic Programming\\Graphic Programming.vcxproj|solutionrelative:Graphic Programming\\AccountExperiment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,13 +38,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "AccountExperiment.h",
-              "DocumentMoniker": "C:\\Users\\jakea\\Module 2\\Graphics-Programming-Week1\\Graphic Programming\\AccountExperiment.h",
+              "DocumentMoniker": "C:\\Users\\jakea\\source\\repos\\Lopsitey\\Module-3\\Graphics-Programming-Week1\\Graphic Programming\\AccountExperiment.h",
               "RelativeDocumentMoniker": "Graphic Programming\\AccountExperiment.h",
-              "ToolTip": "C:\\Users\\jakea\\Module 2\\Graphics-Programming-Week1\\Graphic Programming\\AccountExperiment.h",
+              "ToolTip": "C:\\Users\\jakea\\source\\repos\\Lopsitey\\Module-3\\Graphics-Programming-Week1\\Graphic Programming\\AccountExperiment.h",
               "RelativeToolTip": "Graphic Programming\\AccountExperiment.h",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-03-05T16:46:29.075Z",
               "EditorCaption": ""
@@ -53,9 +53,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MathsExperiment.h",
-              "DocumentMoniker": "C:\\Users\\jakea\\Module 2\\Graphics-Programming-Week1\\Graphic Programming\\MathsExperiment.h",
+              "DocumentMoniker": "C:\\Users\\jakea\\source\\repos\\Lopsitey\\Module-3\\Graphics-Programming-Week1\\Graphic Programming\\MathsExperiment.h",
               "RelativeDocumentMoniker": "Graphic Programming\\MathsExperiment.h",
-              "ToolTip": "C:\\Users\\jakea\\Module 2\\Graphics-Programming-Week1\\Graphic Programming\\MathsExperiment.h",
+              "ToolTip": "C:\\Users\\jakea\\source\\repos\\Lopsitey\\Module-3\\Graphics-Programming-Week1\\Graphic Programming\\MathsExperiment.h",
               "RelativeToolTip": "Graphic Programming\\MathsExperiment.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -64,24 +64,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Rectangle.cpp",
-              "DocumentMoniker": "C:\\Users\\jakea\\Module 2\\Graphics-Programming-Week1\\Graphic Programming\\Rectangle.cpp",
+              "DocumentMoniker": "C:\\Users\\jakea\\source\\repos\\Lopsitey\\Module-3\\Graphics-Programming-Week1\\Graphic Programming\\Rectangle.cpp",
               "RelativeDocumentMoniker": "Graphic Programming\\Rectangle.cpp",
-              "ToolTip": "C:\\Users\\jakea\\Module 2\\Graphics-Programming-Week1\\Graphic Programming\\Rectangle.cpp",
+              "ToolTip": "C:\\Users\\jakea\\source\\repos\\Lopsitey\\Module-3\\Graphics-Programming-Week1\\Graphic Programming\\Rectangle.cpp",
               "RelativeToolTip": "Graphic Programming\\Rectangle.cpp",
-              "ViewState": "AgIAAIQAAAAAAAAAAAAAAJYAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAJcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-04T13:14:50.031Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Rectangle.h",
-              "DocumentMoniker": "C:\\Users\\jakea\\Module 2\\Graphics-Programming-Week1\\Graphic Programming\\Rectangle.h",
+              "DocumentMoniker": "C:\\Users\\jakea\\source\\repos\\Lopsitey\\Module-3\\Graphics-Programming-Week1\\Graphic Programming\\Rectangle.h",
               "RelativeDocumentMoniker": "Graphic Programming\\Rectangle.h",
-              "ToolTip": "C:\\Users\\jakea\\Module 2\\Graphics-Programming-Week1\\Graphic Programming\\Rectangle.h",
+              "ToolTip": "C:\\Users\\jakea\\source\\repos\\Lopsitey\\Module-3\\Graphics-Programming-Week1\\Graphic Programming\\Rectangle.h",
               "RelativeToolTip": "Graphic Programming\\Rectangle.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",

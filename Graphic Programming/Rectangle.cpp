@@ -141,7 +141,7 @@ void OutputUserNumbers(int num)
 {
 	num += 1;
     vector<string> numberArr;
-    for (int i = 1; i < num; ++i)
+    for (int i = 1; i <= num; ++i)
     {
 		numberArr.push_back(to_string(i));
         for (int k = 1; k < i; ++k)
